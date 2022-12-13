@@ -1,8 +1,5 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
+FundraiserDapp Contract, test and deployment script.
+Run the following:
 
 ```shell
 npx hardhat help
@@ -11,4 +8,3 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
-FundraiserDapp
